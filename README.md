@@ -1,0 +1,1 @@
+# apps-dapp-wagmi-rainbowkit-tsconfig.json
